@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589588265 source:c:\users\usuario\desktop\programas en c\parcial programacion 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dataWareHouse.h"
+
+1589588256 c:\users\usuario\desktop\programas en c\parcial programacion 1\datawarehouse.h
+
